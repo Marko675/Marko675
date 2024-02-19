@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
