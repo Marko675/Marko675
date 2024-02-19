@@ -50,5 +50,3 @@
 <a href="https://www.linkedin.com/in/markom6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marko-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marko@awaitquality.com"><img alt="Email" src="https://img.shields.io/badge/Email-marko@awaitquality.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/Marko675)
