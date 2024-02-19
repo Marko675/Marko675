@@ -43,8 +43,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marko675&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marko675&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://awaitquality.com/"><img alt="Website" src="https://img.shields.io/badge/Website-awaitquality.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/markom6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marko%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/markom6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marko-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marko@awaitquality.com"><img alt="Email" src="https://img.shields.io/badge/Email-marko@awaitquality.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
