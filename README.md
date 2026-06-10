@@ -134,7 +134,7 @@ A large part of my work is commercial or client-owned, so many repositories are 
 Got an interesting project, role, or collaboration opportunity?
 
 **Email:** [marko@awaitquality.com](mailto:marko@awaitquality.com)  
-**Portfolio:** [cuftica.com](https://cuftica.com)  
+**Portfolio:** [milovanovic.tech]([https://milovanovic.tech/])  
 **GitHub:** [github.com/Marko675](https://github.com/Marko675)
 
 <p align="center">
